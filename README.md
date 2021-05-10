@@ -33,6 +33,7 @@ Navigation Bar and Footer
 into every other page.
 • Included a separate page for footer design and included it into all the php pages.
 
-## Note - This project is for sole purpose for practicing Php and SQL tech stack
+## Important Note 
+This project is for sole purpose for practicing Php and SQL tech stack
 with basic designs. This project does not project my creative envisioning nor
 restricts my abilities in any aspect.
