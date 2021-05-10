@@ -1,0 +1,102 @@
+body {
+    text-align: center;
+    font-family: arial, helvetica;
+    background-image: url('images/bg-2.jpg');
+}
+
+#navbar ul {
+    list-style-type: none;
+    margin: 0;
+    overflow: hidden;
+    background-color: dimgrey;
+}
+
+#navbar li {
+    float:right;
+}
+
+#navbar li a{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 15px 17px;
+    text-decoration: none;
+}
+
+#navbar li a:hover{
+    background-color:green;
+}
+
+#container h2 {
+    margin: 5%;
+    font-family: fantasy;
+    color: dimgrey;
+}
+
+#container p{
+    font-family: helvetica,arial;
+    color: green;
+    
+}
+
+#selection option {
+    width: 20%;
+    height: 40%;
+}
+
+#container2 h2 {
+    margin: 8%;
+    font-family: fantasy;
+    color: dimgrey;
+}
+
+
+table {
+    margin: 7%;
+}
+
+table th {
+    padding: 3%;
+    background-color: cadetblue;
+    color: black;
+    width: 35%;
+}
+table td{
+    width: 20%;
+    height: 30%;
+    padding: 20px;
+    text-align: center;
+    color: black;
+    background-color: rosybrown;
+}
+
+button {
+    width: 50px;
+    height: 20px;
+} 
+
+#footer ul {
+    list-style-type: none;
+    margin: 0;
+    overflow: hidden;
+    background-color: dimgrey;
+}
+
+#footer li {
+    float:left;
+}
+
+#footer li a{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 15px 17px;
+    text-decoration: none;
+}
+
+#footer h4{
+    text-align: center;
+    font-family: helvetica,arial;
+    color: aliceblue;
+}
+   
